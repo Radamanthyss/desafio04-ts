@@ -32,5 +32,9 @@ export class UserService {
     getAllUsers = () => {
         return this.db
     }
+
+    delete = () =>{
+        db.pop()
+    }
 }
 
