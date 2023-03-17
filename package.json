@@ -1,7 +1,7 @@
 {
   "name": "ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "desenvolvido por [Nathally Souza](https://github.com/nathyts)",
   "main": "index.js",
   "scripts": {
     "build": "rimraf ./build && tsc",
@@ -22,5 +22,13 @@
   },
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radamanthyss/desafio04-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Radamanthyss/desafio04-ts/issues"
+  },
+  "homepage": "https://github.com/Radamanthyss/desafio04-ts#readme"
 }
